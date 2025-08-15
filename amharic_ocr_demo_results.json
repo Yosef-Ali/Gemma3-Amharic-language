@@ -1,0 +1,38 @@
+[
+  {
+    "image_path": "sample_amharic_document.jpg",
+    "raw_extraction": "This is a placeholder for OCR text extraction using Gemma 3 Vision",
+    "enhanced_text": "This is a placeholder for OCR text extraction using Gemma 3 Vision",
+    "quality_score": 0.85,
+    "vision_metrics": {
+      "status": "simulated",
+      "confidence": 0.85,
+      "processing_time": 1.2
+    },
+    "timestamp": "2025-08-15 11:18:20"
+  },
+  {
+    "image_path": "sample_amharic_book_page.png",
+    "raw_extraction": "This is a placeholder for OCR text extraction using Gemma 3 Vision",
+    "enhanced_text": "This is a placeholder for OCR text extraction using Gemma 3 Vision",
+    "quality_score": 0.85,
+    "vision_metrics": {
+      "status": "simulated",
+      "confidence": 0.85,
+      "processing_time": 1.2
+    },
+    "timestamp": "2025-08-15 11:18:20"
+  },
+  {
+    "image_path": "sample_amharic_sign.jpg",
+    "raw_extraction": "This is a placeholder for OCR text extraction using Gemma 3 Vision",
+    "enhanced_text": "This is a placeholder for OCR text extraction using Gemma 3 Vision",
+    "quality_score": 0.85,
+    "vision_metrics": {
+      "status": "simulated",
+      "confidence": 0.85,
+      "processing_time": 1.2
+    },
+    "timestamp": "2025-08-15 11:18:20"
+  }
+]

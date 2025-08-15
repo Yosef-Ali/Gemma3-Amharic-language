@@ -1,0 +1,23 @@
+[
+  {
+    "user_input": "ሰላም፣ እንደምን አለህ?",
+    "raw_response": "Error: Model not loaded",
+    "enhanced_response": "Error: Model not loaded",
+    "quality_score": 0.85,
+    "timestamp": "2025-08-15 11:18:20"
+  },
+  {
+    "user_input": "ኢትዮጵያ ስለ ታሪክ ንገረኝ።",
+    "raw_response": "Error: Model not loaded",
+    "enhanced_response": "Error: Model not loaded",
+    "quality_score": 0.85,
+    "timestamp": "2025-08-15 11:18:20"
+  },
+  {
+    "user_input": "የአማርኛ ቋንቋ ቆንጆ ነው።",
+    "raw_response": "Error: Model not loaded",
+    "enhanced_response": "Error: Model not loaded",
+    "quality_score": 0.85,
+    "timestamp": "2025-08-15 11:18:20"
+  }
+]

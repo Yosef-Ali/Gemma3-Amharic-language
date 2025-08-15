@@ -1,0 +1,47 @@
+# Gemma 3 for Amharic Applications - Requirements
+
+# Core dependencies
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.20.0
+datasets>=2.14.0
+tokenizers>=0.15.0
+protobuf>=3.20.0
+
+# For efficient training (Unsloth)
+# Note: Unsloth requires specific Python versions (3.11/3.12)
+# git+https://github.com/unslothai/unsloth.git
+
+# For vision capabilities (when available)
+# torchvision>=0.15.0
+# pillow>=9.0.0
+
+# For audio processing
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+
+# For data processing and quality scoring
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# For OCR (comparison baseline)
+pytesseract>=0.3.10
+opencv-python>=4.5.0
+
+# For development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# For Jupyter notebooks (if needed)
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# HuggingFace tools
+huggingface_hub>=0.20.0
+
+# For Model Context Protocol integration
+# (if using amharic-dataset-mcp as a package)
+# amharic-dataset-mcp>=1.0.0
